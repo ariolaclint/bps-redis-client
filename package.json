@@ -1,6 +1,6 @@
 {
   "name": "bps-redis-client",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Utility package for Microservices that implement Redis Cache Service",
   "main": "src/index.js",
   "scripts": {
@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/ariolaclint/bps-redis-client#readme",
   "dependencies": {
-    
+    "redis": "^4.0.6"
   },
   "devDependencies": {
     "eslint": "^8.12.0",
