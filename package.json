@@ -1,7 +1,7 @@
 {
   "name": "bps-redis-client",
-  "version": "0.0.4",
-  "description": "BPS Redis \u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D Microservice \u001b[2~Redis Client",
+  "version": "0.0.5",
+  "description": "Utility package for Microservices that implement Redis Cache Service",
   "main": "src/index.js",
   "scripts": {
     "test": "mocha",
