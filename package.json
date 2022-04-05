@@ -1,6 +1,6 @@
 {
   "name": "bps-redis-client",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Utility package for Microservices that implement Redis Cache Service",
   "main": "src/index.js",
   "scripts": {
