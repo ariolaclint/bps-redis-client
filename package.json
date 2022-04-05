@@ -1,6 +1,6 @@
 {
   "name": "bps-redis-client",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "BPS Redis \u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D Microservice \u001b[2~Redis Client",
   "main": "server.js",
   "scripts": {
