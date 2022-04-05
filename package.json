@@ -1,0 +1,22 @@
+{
+  "name": "bps-redis-client",
+  "version": "0.0.1",
+  "description": "BPS Redis \u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D Microservice \u001b[2~Redis Client",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ariolaclint/bps-redis-client.git"
+  },
+  "keywords": [
+    "Redis"
+  ],
+  "author": "Clint Ariola",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ariolaclint/bps-redis-client/issues"
+  },
+  "homepage": "https://github.com/ariolaclint/bps-redis-client#readme"
+}
